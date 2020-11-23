@@ -5,7 +5,8 @@
             "image#brand2",
             "image#brand3",
             "image#brand4",
-            "image#brand5"
+            "image#brand5",
+            "image#brand6"
         ],
         "props": {
             "autoplay": {
@@ -37,6 +38,11 @@
     "image#brand5": {
         "props": {
             "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square5.png"
+        }
+    },
+    "image#brand6": {
+        "props": {
+            "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png"
         }
     }
 }
